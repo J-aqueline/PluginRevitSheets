@@ -1,0 +1,6 @@
+C:\Users\Jaqueline Andrade\source\repos\NovaFolha\bin\Debug\NovaFolha.dll
+C:\Users\Jaqueline Andrade\source\repos\NovaFolha\bin\Debug\NovaFolha.pdb
+C:\Users\Jaqueline Andrade\source\repos\NovaFolha\obj\Debug\NovaFolha.csproj.AssemblyReference.cache
+C:\Users\Jaqueline Andrade\source\repos\NovaFolha\obj\Debug\NovaFolha.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Andrade\source\repos\NovaFolha\obj\Debug\NovaFolha.dll
+C:\Users\Jaqueline Andrade\source\repos\NovaFolha\obj\Debug\NovaFolha.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+	<AddIn Type="Command">
+		<Text>Command NovaFolha</Text>
+		<Description>Some description for CreatingNewSheet</Description>
+		<Assembly>NovaFolha.dll</Assembly>
+		<FullClassName>NovaFolha.Command</FullClassName>
+		<ClientId>2a769580-063b-40bd-b7f4-7e85e29352c1</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+
+	<AddIn Type="Application">
+		<Name>Application NovaFolha</Name>
+		<Assembly>NovaFolha.dll</Assembly>
+		<FullClassName>NovaFolha.App</FullClassName>
+		<ClientId>84bcc3db-549f-4463-a078-0e079cff6add</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
+
+
+</RevitAddIns>

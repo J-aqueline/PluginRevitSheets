@@ -13,7 +13,7 @@ using Autodesk.Revit.UI.Events;
 using Autodesk.Revit.Attributes;
 using Autodesk.Revit.UI.Selection;
 using Autodesk.Revit.ApplicationServices;
-//s
+
 
 namespace NovaFolha
 {
